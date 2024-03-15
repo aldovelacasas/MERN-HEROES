@@ -28,7 +28,7 @@ export const SearchPage = () => {
 
   return (
     <div>
-        <h1>Search</h1>
+        <h1 className="text-danger" style={{ fontFamily: "Arial, sans-serif"}}>Search</h1>
         <hr />
 
          <div className="row">

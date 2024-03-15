@@ -1,0 +1,7 @@
+body {
+  background: linear-gradient(to bottom, rgb(3, 76, 154), black);
+  background-size: cover; /* Evita que el fondo se repita en un patrón */
+  min-height: 100vh; /* Esto asegura que el cuerpo ocupe al menos el 100% de la altura de la ventana del navegador */
+
+}
+
